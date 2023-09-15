@@ -4,7 +4,7 @@
 
 [Script]
 
-流利说·阅读=type=http-response,pattern=^https?:\/\/vira\.llsapp\.com\/api\/v\d\/\w+\/\w+$,requires-body=true,script-path=https://raw.githubusercontent.com/slionx/IOSScript/Master/lls/Script/LiuLiShuoYueDu.js
+流利说·阅读=type=http-response,pattern=^https?:\/\/vira\.llsapp\.com\/api\/v\d\/\w+\/\w+$,requires-body=true,script-path=https://raw.githubusercontent.com/slionx/IOSScript/main/lls/script/LiuLiShuoYueDu.js
 
 [MITM]
 
